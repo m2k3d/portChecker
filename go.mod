@@ -1,4 +1,4 @@
-module portScanner
+module portChecker
 
 go 1.26.3
 
